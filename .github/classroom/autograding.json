@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test",
+      "setup": "",
+      "run": "hello_name.py",
+      "input": "Riccardo",
+      "output": "Riccardo",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
